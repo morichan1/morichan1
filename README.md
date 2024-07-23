@@ -10,7 +10,7 @@
 - 🧑‍💻 I'm a frontend engineer.
 - 🧑‍🎓 Graduate Student at Tokyo Institute of Technology
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @senyongshu51288]([https://x.com/senyongshu51288](https://x.com/sciencetokyo_mo))
+- 📫 How to reach me: [Twitter - @senyongshu51288]((https://x.com/sciencetokyo_mo))
 <br>
 
 
